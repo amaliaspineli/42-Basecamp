@@ -1,0 +1,12 @@
+x -> largura
+y -> altura
+
+rush(x,y)
+rush(5,3)
+  12345
+1 /***\
+2 *   *
+3 \***/
+
+matriz[y][x]
+matriz[3][5]
